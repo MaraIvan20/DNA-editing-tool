@@ -1,0 +1,64 @@
+T,T,T,Phe,F,Phenylalanine
+T,T,C,Phe,F,Phenylalanine
+T,T,A,Leu,L,Leucine
+T,T,G,Leu,L,Leucine
+C,T,T,Leu,L,Leucine
+C,T,C,Leu,L,Leucine
+C,T,A,Leu,L,Leucine
+C,T,G,Leu,L,Leucine
+A,T,T,Ile,I,Isoleucine
+A,T,C,Ile,I,Isoleucine
+A,T,A,Ile,I,Isoleucine
+A,T,G,Met,M,Methionine
+G,T,T,Val,V,Valine
+G,T,C,Val,V,Valine
+G,T,A,Val,V,Valine
+G,T,G,Val,V,Valine
+T,C,T,Ser,S,Serine
+T,C,C,Ser,S,Serine
+T,C,A,Ser,S,Serine
+T,C,G,Ser,S,Serine
+C,C,T,Pro,P,Proline
+C,C,C,Pro,P,Proline
+C,C,A,Pro,P,Proline
+C,C,G,Pro,P,Proline
+A,C,T,Thr,T,Threonine
+A,C,C,Thr,T,Threonine
+A,C,A,Thr,T,Threonine
+A,C,G,Thr,T,Threonine
+G,C,T,Ala,A,Alanine
+G,C,C,Ala,A,Alanine
+G,C,A,Ala,A,Alanine
+G,C,G,Ala,A,Alanine
+T,A,T,Tyr,Y,Tyrosine
+T,A,C,Tyr,Y,Tyrosine
+T,A,A,XXX,X,Stop (Ochre)
+T,A,G,XXX,X,Stop (Amber)
+C,A,T,His,H,Histidine
+C,A,C,His,H,Histidine
+C,A,A,Gln,Q,Glutamine
+C,A,G,Gln,Q,Glutamine
+A,A,T,Asn,N,Asparagine
+A,A,C,Asn,N,Asparagine
+A,A,A,Lys,K,Lysine
+A,A,G,Lys,K,Lysine
+G,A,T,Asp,D,Aspartic acid
+G,A,C,Asp,D,Aspartic acid
+G,A,A,Glu,E,Glutamic acid
+G,A,G,Glu,E,Glutamic acid
+T,G,T,Cys,C,Cysteine
+T,G,C,Cys,C,Cysteine
+T,G,A,XXX,X,Stop (Opal)
+T,G,G,Trp,W,Tryptophan
+C,G,T,Arg,R,Arginine
+C,G,C,Arg,R,Arginine
+C,G,A,Arg,R,Arginine
+C,G,G,Arg,R,Arginine
+A,G,T,Ser,S,Serine
+A,G,C,Ser,S,Serine
+A,G,A,Arg,R,Arginine
+A,G,G,Arg,R,Arginine
+G,G,T,Gly,G,Glycine
+G,G,C,Gly,G,Glycine
+G,G,A,Gly,G,Glycine
+G,G,G,Gly,G,Glycine
